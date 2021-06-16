@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d8e438e2-76a7-47fa-a00c-dc77013dfa53" name="1111" url="http://spl94.hosting.reg.ru">
+        <fileTransfer rootFolder="/mt-webapp.ru/handler/apigoogledrive" host="spl94.hosting.reg.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
